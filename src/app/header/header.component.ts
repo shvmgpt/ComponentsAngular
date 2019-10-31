@@ -9,4 +9,7 @@ export class HeaderComponent {
   gmail = 'Gmail';
   images = 'Images';
   signin = 'Sign In';
+  
+  constructor(){
+  }
 }
