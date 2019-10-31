@@ -13,4 +13,7 @@ export class FooterComponent {
   terms = 'Terms';
   settings = 'Settings';
   india = 'India';
+  
+  constructor(){
+  }
 }
